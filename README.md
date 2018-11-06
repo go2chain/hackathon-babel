@@ -2,18 +2,17 @@
 
 ## Enlaces de interes:
 
-### Introducción:
+**Introducción**
 
 * Que es blockchain: https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners
 
 
-### SmartContracts y Programación:
+**SmartContracts y Programación:**
 
 * Introducción a los SmartContract: https://www.coindesk.com/information/ethereum-smart-contracts-work/
 * Cryptozombies (Curso gratuito y muy bueno de solidity): https://cryptozombies.io/es/course
 
-
-### Entorno de trabajo (necesario tener instalado):
+Entorno de trabajo (necesario tener instalado):
 
 * NodeJS + npm: https://nodejs.org/en/
 * Truffle: https://truffleframework.com/docs/truffle/getting-started/installation
@@ -22,7 +21,7 @@
 * VSC pluggin Solidity: https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity
 
 
-### Extras:
+**Extras:**
 
 * Enlace al tutorial de Pet-shop: https://truffleframework.com/tutorials/pet-shop
 * Remix Ethereum: https://remix.ethereum.org
@@ -35,7 +34,7 @@
 * EtherScan: https://etherscan.io/
 
 
-### Documentación:
+**Documentación:**
 
 * Web3: https://web3js.readthedocs.io/en/1.0/
 * Solidity: https://solidity.readthedocs.io/en/v0.4.24/
