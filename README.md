@@ -12,7 +12,7 @@
 * Introducción a los SmartContract: https://www.coindesk.com/information/ethereum-smart-contracts-work/
 * Cryptozombies (Curso gratuito y muy bueno de solidity): https://cryptozombies.io/es/course
 
-Entorno de trabajo (necesario tener instalado):
+**Entorno de trabajo (necesario tener instalado):**
 
 * NodeJS + npm: https://nodejs.org/en/
 * Truffle: https://truffleframework.com/docs/truffle/getting-started/installation
@@ -33,6 +33,9 @@ Entorno de trabajo (necesario tener instalado):
 * Stateofthedapps: https://www.stateofthedapps.com/
 * EtherScan: https://etherscan.io/
 
+**Proyectos de ejemplo:**
+
+* SimpleBank & SimpleState: https://github.com/go2chain/hackathon-examples
 
 **Documentación:**
 
