@@ -1,5 +1,9 @@
 # Blockchain Hackathon by Babel
 
+Imagen de guía, cuando usar blockchain:
+
+![Cuando usar blockchain](https://i.imgur.com/V2qxtwS.png)
+
 ## Enlaces de interes:
 
 **Introducción**
@@ -35,7 +39,7 @@
 
 **Proyectos de ejemplo:**
 
-* SimpleBank & SimpleState: https://github.com/go2chain/hackathon-examples
+* Ejemplos: https://github.com/go2chain/hackathon-examples
 
 **Documentación:**
 
